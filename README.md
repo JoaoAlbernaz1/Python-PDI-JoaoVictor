@@ -1,2 +1,1 @@
-# Python-PDI-JoaoVictor
-# Python-PDI-JoaoVictor
+Projeto completo com 6 desafios de Python
