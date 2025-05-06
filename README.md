@@ -1,2 +1,6 @@
-Projeto completo com 6 desafios de Python
-# PDI-TESTE
+# Teste Prático Python – Etapa 1
+
+Soluções profissionais para cada desafio separado.
+
+## Desafios
+...
